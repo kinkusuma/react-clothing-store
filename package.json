@@ -1,6 +1,6 @@
 {
     "name": "react-app",
-    "homepage": "https://kinkusuma.github.io/<repo>",
+    "homepage": "https://kinkusuma.github.io/react-clothing-store",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
@@ -21,7 +21,7 @@
         "build": "craco build",
         "test": "craco test",
         "eject": "react-scripts eject",
-        "deploy": "gh-pages -d build -r https://github.com/kinkusuma/<repo>"
+        "deploy": "gh-pages -d build -r https://github.com/kinkusuma/react-clothing-store"
     },
     "eslintConfig": {
         "extends": [
